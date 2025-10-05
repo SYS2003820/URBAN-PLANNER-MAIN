@@ -2,7 +2,7 @@
 
 A comprehensive real-time air quality monitoring and disaster alert system powered by NASA satellite data and global environmental APIs.
 
-**GitHub Repository**: [https://github.com/ayush3739/Urban-Planner](https://github.com/ayush3739/Urban-Planner)
+**GitHub Repository**: [https://github.com/SYS2003820/URBAN-PLANNER-MAIN](https://github.com/SYS2003820/URBAN-PLANNER-MAIN)
 
 ## 🚀 Features
 
@@ -244,7 +244,7 @@ This project is open source and available under the MIT License.
 
 ## 📧 Support
 
-For issues or questions, please open an issue on GitHub at [https://github.com/ayush3739/Urban-Planner/issues](https://github.com/ayush3739/Urban-Planner/issues)
+For issues or questions, please open an issue on GitHub at [https://github.com/SYS2003820/URBAN-PLANNER-MAIN] or (https://github.com/ayush3739/Urban-Planner/issues)
 
 ---
 
