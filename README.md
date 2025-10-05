@@ -3,6 +3,7 @@
 Real-time air quality monitoring and disaster alert system powered by NASA satellite data and advanced analytics.
 
 **Live Demo**: [https://urbansimulator.netlify.app](https://urbansimulator.netlify.app)  
+**Team**
 **GitHub Repository**: [https://github.com/ayush3739/Urban-Planner](https://github.com/ayush3739/Urban-Planner)
 
 ## 🎯 Overview
